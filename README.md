@@ -1,2 +1,2 @@
 # Conways-game-of-life
-Conway's game of life implemented with C++ standard library
+Personal project implementing Conway's game of lifewith C++ standard library
